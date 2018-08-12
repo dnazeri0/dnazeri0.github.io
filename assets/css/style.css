@@ -17,24 +17,36 @@ h2
     font-size: 30px;
 }
 
-#rc1
+.portrait
+{
+    width: 200px;
+    height: 200px;
+    float: left;
+    position: absolute;
+}
+
+.main
 {
     border-radius: 10px;
     background-color: #403D39;
     background-size: 100%;
-    padding: 100px; 
-    width: 200px;
-    height: 100px;
+    padding: 100px;
+    width: auto;
+    height: auto;
+    padding-left: 40px;
+    padding-top: 1px; 
 
 }
 
 p
 {
     color: #F0F7F4;
-    text-align: center;
+    text-align: justify;
     margin: auto;
-    width: 200px;
-    height: 100px;
+    height: auto;
+    float: right;
+    position: left;
+    padding-left: 44%;
 }
 
 #nav
