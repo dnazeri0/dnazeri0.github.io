@@ -32,7 +32,7 @@ h2
     background-size: 100%;
     padding: 100px;
     width: auto;
-    height: auto;
+    height: 500px;
     padding-left: 40px;
     padding-top: 1px; 
 
@@ -67,4 +67,5 @@ div.fixed {
     right: 0;
     width: auto;
     border: 3px solid #cccccc;
+    margin-bottom: 
 }
